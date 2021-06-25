@@ -1,0 +1,2 @@
+# 3D-Scanner-for-packaging-Solution
+The project involves usage of Xbox One Kinect Depth sensor to scan objects and create DXF files of the exact dimensions as the objects. Image processing algorithms such as Otsu thresholding, Connected Component Labelling, Component Filling using Flood Fill algorithm are implemented on Java based Processing platform. Raster file to DXF format conversion using Polygon Tracing (Potrace) software.
