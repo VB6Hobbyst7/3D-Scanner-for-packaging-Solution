@@ -1,0 +1,11 @@
+Image Capture
+Grayscale Conversion
+Median Filter
+Image Thresholding using OTSU Thresholding Algorithm.
+Image Filteration to remove specles.
+Component filling Algorithm.
+Connected Component Algorithm to count number of objects.
+Save the image as .BMP as required in Potrace.
+Finding minimum depth of each object using Merge sort Algorithm
+Creating text file of Depth data.
+Used Potrace commands to convert .BMP file to .DXF file.
